@@ -1,1 +1,4 @@
-params.p
+*.p
+*.zip
+*.ckpt*
+checkpoint
